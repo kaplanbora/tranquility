@@ -10,6 +10,8 @@ Storm, and Trident.
 
 This project is a friend of Druid. For discussion, feel free to use the normal Druid channels: http://druid.io/community/
 
+This project is in maintenance mode. It is not the recommended way to ingest data into Druid for new projects. Please refer to the [documents](https://druid.staged.apache.org/docs/latest/ingestion/tranquility.html) for recommended ways to ingest data.
+
 ### Documentation
 
 General:
